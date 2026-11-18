@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "date": "2026-11-09",
+        "category": "Transport",
+        "description": "bus",
+        "amount": "70"
+    },
+    {
+        "id": 2,
+        "date": "2026-11-10",
+        "category": "Transport",
+        "description": "bus",
+        "amount": "61"
+    },
+    {
+        "id": 3,
+        "date": "2026-11-10",
+        "category": "Food",
+        "description": "ice",
+        "amount": "30"
+    }
+]
